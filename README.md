@@ -1,1 +1,1 @@
-# .github
+# Welcome to Comet Robotics!
